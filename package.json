@@ -213,7 +213,7 @@
     "vitest": "^3.2.4",
     "yaml": "^2.8.1",
     "yargs": "^17.7.2",
-    "zod": "3.25.76"
+    "zod": "4.6.6"
   },
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
